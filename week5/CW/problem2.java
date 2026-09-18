@@ -1,4 +1,4 @@
-public class Problem2 {
+public class problem2 {
 
     static String findDuplicateTeam(String[] teamNames) {
 
@@ -25,4 +25,4 @@ public class Problem2 {
 
         System.out.println(findDuplicateTeam(teams));
     }
-}git
+}
