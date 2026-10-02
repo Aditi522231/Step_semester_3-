@@ -1,6 +1,6 @@
 package class_problems;
 
-public class question2_class {
+public class question2 {
 
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length == 0) {
@@ -24,7 +24,7 @@ public class question2_class {
     }
 
     public static void main(String[] args) {
-        question2_class q2 = new question2_class();
+        question2 q2 = new question2();
 
         // Sample Test Case 1
         int[] prices1 = {7, 1, 5, 3, 6, 4};
