@@ -1,6 +1,6 @@
 package class_problems;
 
-public class question1_class {
+public class question1 {
 
     public int[] twoSum(int[] nums, int target) {
         // Outer loop iterates through each element
