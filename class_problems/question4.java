@@ -2,7 +2,7 @@ package class_problems;
 
 import java.util.Arrays;
 
-public class question4_class {
+public class question4 {
 
     public int[] mergeSortedArrays(int[] arr1, int[] arr2) {
         int n1 = arr1.length;
@@ -36,7 +36,7 @@ public class question4_class {
     }
 
     public static void main(String[] args) {
-        question4_class q4 = new question4_class();
+        question4 q4 = new question4();
 
         // Sample Test Case 1
         int[] arr1 = {1, 3, 5};
