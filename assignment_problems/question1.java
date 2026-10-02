@@ -2,7 +2,7 @@ package assignment_problems;
 
 import java.util.Arrays;
 
-public class question6 {
+public class question1 {
 
     public static void applyMultipliers(double[] playerScores, int captainIndex, int viceCaptainIndex) {
         // Double the captain's score (2.0x)
