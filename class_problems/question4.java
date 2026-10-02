@@ -83,7 +83,7 @@ public class question4 {
 
             // Structure: QuestionType, QuestionText, CorrectAnswer, StudentAnswer, Points
             String type = tokens.get(0);
-            String questionText = tokens.get(1);
+            // Index 1 (questionText) is intentionally skipped as it isn't required for scoring
             String correctAnswer = tokens.get(2);
             String studentAnswer = tokens.get(3);
             double maxPoints = Double.parseDouble(tokens.get(4));
