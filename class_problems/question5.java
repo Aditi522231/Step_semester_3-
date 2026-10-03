@@ -1,4 +1,4 @@
-package main.java.class_problems;
+package class_problems;
 public class question5 {
 
     // Reverses a given customer name without modifying the original string

@@ -1,4 +1,4 @@
-package main.java.class_problems;
+package class_problems;
 public class question3 {
 
     // Helper method to determine health status classification based on BMI score

@@ -1,4 +1,4 @@
-package main.java.class_problems;
+package class_problems;
 import java.util.HashMap;
 import java.util.Map;
 

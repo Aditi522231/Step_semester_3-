@@ -1,3 +1,4 @@
+package assignment_problems;
 public class question2 {
 
     static void checkTypingAccuracy(String original, String typed) {

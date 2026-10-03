@@ -1,3 +1,4 @@
+package assignment_problems;
 public class question1{
 
     static void checkDuplicateSeats(int[] seatNumbers) {

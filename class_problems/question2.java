@@ -1,4 +1,4 @@
-package main.java.class_problems;
+package class_problems;
 public class question2 {
 
     // Approach 1: Iterative Comparison
