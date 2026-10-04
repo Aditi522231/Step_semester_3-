@@ -2,7 +2,7 @@ package assignment_problems;
 
 import java.util.Scanner;
 
-public class question46_class {
+public class question1 {
 
     // Single source of truth for the mandatory convenience fee
     private static final double CONVENIENCE_FEE = 20.0;
